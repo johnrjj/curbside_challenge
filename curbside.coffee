@@ -1,4 +1,4 @@
-# Curbside Challenge - John J - 2015
+# Curbside Challenge - John J - Oct 2015
 _ = require 'lodash'
 rp = require 'request-promise'
 q = require 'bluebird' 
